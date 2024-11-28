@@ -2,7 +2,7 @@
 Python program where the user is prompted to guess a number between 1 and 100.
 The program continuously provides feedback, indicating whether the guess is too high
  or too low, until the user successfully guesses the correct number.
-
+ 
 """
 
 import random
