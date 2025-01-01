@@ -1,9 +1,3 @@
-"""
-Python program to perform the basic maths operations 
-
-"""
-
-
 while True:
     try:
         op1 = int(input("Enter the first operand: "))
